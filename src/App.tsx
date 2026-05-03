@@ -1,8 +1,8 @@
 import "./App.css";
-import BooleanSearchBuilder from "./components/feat/bsb";
+import { AudioRecorder } from "./components/feat/audio-recorder";
 
 function App() {
-  return <BooleanSearchBuilder />;
+  return <AudioRecorder />;
 }
 
 export default App;
