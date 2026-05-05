@@ -1,8 +1,15 @@
+import { Fragment } from "react";
 import "./App.css";
 import { AudioRecorder } from "./components/feat/audio-recorder";
+import { AudioMessage } from "./components/feat/audio-message";
 
 function App() {
-  return <AudioRecorder />;
+  return (
+    <Fragment>
+      <AudioRecorder />
+      <AudioMessage />
+    </Fragment>
+  );
 }
 
 export default App;
