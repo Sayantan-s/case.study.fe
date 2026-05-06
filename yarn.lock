@@ -1597,6 +1597,11 @@ react-dom@^19.2.4:
   dependencies:
     scheduler "^0.27.0"
 
+react-voice-visualizer@^2.1.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/react-voice-visualizer/-/react-voice-visualizer-2.1.0.tgz#51c77a10aafc5807cae1dc7f3b839536bc88ecd9"
+  integrity sha512-7nITHqvHB0r+B5l7JSwl1H5jrqGmuypl8sVuHOPmjfzTFZPsbDXnHmWTeIYvDdvFvT00gMdhjcxYRTXcBaCGAA==
+
 react@^19.2.4:
   version "19.2.5"
   resolved "https://registry.yarnpkg.com/react/-/react-19.2.5.tgz#c888ab8b8ef33e2597fae8bdb2d77edbdb42858b"

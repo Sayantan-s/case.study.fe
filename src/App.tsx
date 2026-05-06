@@ -7,7 +7,7 @@ function App() {
   return (
     <Fragment>
       <AudioRecorder />
-      <AudioMessage />
+      <AudioMessage audioUrl="/audio.mp3" />
     </Fragment>
   );
 }
